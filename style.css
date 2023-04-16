@@ -4,6 +4,6 @@ p {
 }
 .slide {
   width: 100%;
-  height: 40rem;
+  height: auto;
   background-repeat: no-repeat;
 }
